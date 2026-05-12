@@ -10,7 +10,7 @@ const IconBase = ({
   size,
   width = size ?? 24,
   height = size ?? 24,
-  viewBox = "0 0 24 24",
+  viewBox = "0 0 56 56",
   title,
   children,
   ref,

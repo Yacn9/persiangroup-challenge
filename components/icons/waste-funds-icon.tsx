@@ -7,68 +7,68 @@ const WasteFundsIcon = () => {
         d="M51.3334 4.66669H4.66675V51.3334H51.3334V4.66669Z"
         fill="white"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M28 4.66669V51.3334"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M51.3334 28H4.66675"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M4.66675 4.66669L51.3334 51.3334"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M45.1111 10.8899H10.8889V45.1121H45.1111V10.8899Z"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M51.3334 4.66669L4.66675 51.3334"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M4.66675 28L28.0001 4.66669"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M28 4.66669L51.3333 28"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M51.3333 28L28 51.3333"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M28.0001 51.3333L4.66675 28"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M28.0001 44.3313C37.0207 44.3313 44.3334 37.0187 44.3334 27.998C44.3334 18.9774 37.0207 11.6647 28.0001 11.6647C18.9794 11.6647 11.6667 18.9774 11.6667 27.998C11.6667 37.0187 18.9794 44.3313 28.0001 44.3313Z"
         stroke="white"
-        stroke-width="0.1"
-        stroke-miterlimit="10"
+        strokeWidth="0.1"
+        strokeMiterlimit="10"
       />
       <path
         d="M29.5557 23.3313C25.6668 23.3313 22.5557 26.4424 22.5557 30.3313C22.5557 34.2202 25.6668 37.3313 29.5557 37.3313C33.4446 37.3313 36.5557 34.2202 36.5557 30.3313C36.5557 26.4424 33.4446 23.3313 29.5557 23.3313ZM29.5557 35.7757C26.5223 35.7757 24.1112 33.3646 24.1112 30.3313C24.1112 27.298 26.5223 24.8869 29.5557 24.8869C32.589 24.8869 35.0001 27.298 35.0001 30.3313C35.0001 33.3646 32.589 35.7757 29.5557 35.7757Z"

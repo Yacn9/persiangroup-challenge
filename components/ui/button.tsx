@@ -11,11 +11,14 @@ const buttonVariants = cva(
         default: "bg-primary text-background [a]:hover:bg-primary/80",
         secondary:
           "bg-black-500 text-background hover:bg-black-600 aria-expanded:bg-black-500 aria-expanded:text-background",
+        ghost:
+          "bg-white p-0 text-gray-600 hover:text-primary disabled:opacity-100",
       },
       size: {
         default:
           "py-2 px-4 h-12 gap-1.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2",
         md: "py-2 px-8 h-10 gap-1.5 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2",
+        icon: "p-0 size-8",
       },
     },
     defaultVariants: {
