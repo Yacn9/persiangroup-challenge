@@ -16,7 +16,7 @@ const cyUp = 11.8;
 const easeInOut: [number, number, number, number] = [0.42, 0, 0.58, 1];
 
 const baseTransition: Transition = {
-  duration: 0.9,
+  duration: 2,
   repeat: Infinity,
   repeatType: "loop",
   ease: easeInOut,
