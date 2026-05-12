@@ -1,6 +1,5 @@
 "use client";
 
-import { cn } from "@/libs/cn.util";
 import { motion } from "framer-motion";
 import {
   Facebook,
@@ -10,6 +9,8 @@ import {
   MessageText1,
   Youtube,
 } from "iconsax-reactjs";
+
+import { cn } from "@/libs/cn.util";
 
 const SOCIAL_ICONS = [
   {
