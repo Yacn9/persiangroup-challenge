@@ -2,7 +2,10 @@ import ObstaclesSwiper from "./obstacles-swiper";
 
 const ObstaclesSection = () => {
   return (
-    <section className="relative overflow-hidden bg-black-50 pb-16 lg:pb-9 lg:pt-7">
+    <section
+      id="obstacles"
+      className="relative scroll-mt-24 overflow-hidden bg-black-50 pb-16 lg:scroll-mt-28 lg:pb-9 lg:pt-7"
+    >
       <div className="absolute inset-x-0 top-0 h-54 bg-linear-to-b from-secondary via-primary to-primary lg:h-60" />
 
       <div className="relative mx-auto w-full max-w-7xl pt-11 lg:pt-0">

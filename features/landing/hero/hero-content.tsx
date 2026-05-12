@@ -1,5 +1,4 @@
-import Link from "next/link";
-
+import ScrollLink from "@/components/layout/scroll-link";
 import Button from "@/components/ui/button";
 
 const HeroContent = () => {
@@ -20,12 +19,12 @@ const HeroContent = () => {
       </p>
 
       <Button asChild className="mt-4 md:mt-9 min-w-36">
-        <Link
-          href="#contact"
+        <ScrollLink
+          href="#consultation"
           className="font-semibold text-xs lg:font-bold lg:text-lg"
         >
           دریافت مشاوره
-        </Link>
+        </ScrollLink>
       </Button>
     </div>
   );
